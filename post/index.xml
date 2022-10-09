@@ -28,12 +28,13 @@ Key steps: The robot is assumed to have access to the building&amp;rsquo;s floor
     </item>
     
     <item>
-      <title>Digit Classification w/ PyGame</title>
+      <title>Digit Classification</title>
       <link>https://ogibbo.github.io/post/proj3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ogibbo.github.io/post/proj3/</guid>
-      <description></description>
+      <description>Neural network trained using PyTorch and MNIST dataset. The model will then predict the value of the user drawn digit in a PyGame window.
+Key steps: Neural network trained using stochastic gradient descent and a cross-entropy loss. Dropout used to prevent overfitting. User can then draw their own digit in a PyGame window to be predicted. </description>
     </item>
     
   </channel>

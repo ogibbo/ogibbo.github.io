@@ -28,12 +28,13 @@ Key steps: The robot is assumed to have access to the building&amp;rsquo;s floor
     </item>
     
     <item>
-      <title>Digit Classification w/ PyGame</title>
+      <title>Digit Classification</title>
       <link>https://ogibbo.github.io/post/proj3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ogibbo.github.io/post/proj3/</guid>
-      <description></description>
+      <description>Neural network trained using PyTorch and MNIST dataset. The model will then predict the value of the user drawn digit in a PyGame window.
+Key steps: Neural network trained using stochastic gradient descent and a cross-entropy loss. Dropout used to prevent overfitting. User can then draw their own digit in a PyGame window to be predicted. </description>
     </item>
     
     <item>
@@ -43,7 +44,7 @@ Key steps: The robot is assumed to have access to the building&amp;rsquo;s floor
       
       <guid>https://ogibbo.github.io/about/</guid>
       <description>Hi! I&amp;rsquo;m Oliver. Right now I&amp;rsquo;m modelling carbon credit demand at Trove Research! I recently graduated with a masters in Engineering Science from the University of Oxford, where I specialised in information engineering. In my final years I focussed on robotics, machine learning and control theory.
-I enjoy programming and being exposed new technologies. For a more detailed overview of my background and experience, check out my LinkedIn! You can also see some of my code on GitHub.</description>
+I enjoy programming and being exposed to new technologies. For a more detailed overview of my background and experience, check out my LinkedIn! You can also see some of my code on GitHub.</description>
     </item>
     
   </channel>
