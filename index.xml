@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi! I&#39;m Oliver. on Oliver Gibbons</title>
-    <link>/</link>
+    <link>https://olivergibbons.com/</link>
     <description>Recent content in Hi! I&#39;m Oliver. on Oliver Gibbons</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://olivergibbons.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robotic Manipulation Using Tactile Feedback: A Strategy for Peg in Hole Insertion Tasks</title>
-      <link>/projects/robotic_manipulation/</link>
+      <link>https://olivergibbons.com/projects/robotic_manipulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/robotic_manipulation/</guid>
+      <guid>https://olivergibbons.com/projects/robotic_manipulation/</guid>
       <description>Assembly operations account for a significant portion of an entire production cycle. Around 40% of these operations can be reduced to a peg-in-hole task. This makes the task a useful starting point to develop new strategies.
 This project investigated a peg insertion strategy that made sole use of tactile sensing throughout. Most solutions in the literature make use of force-torque sensors or cameras. However, force-torque sensors increase the cost of the overall system and cameras will fail in low light conditions.</description>
     </item>
     
     <item>
       <title>Indoor Delivery Robot - Path Planning and Obstacle Avoidance</title>
-      <link>/projects/obstacle_avoidance/</link>
+      <link>https://olivergibbons.com/projects/obstacle_avoidance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/obstacle_avoidance/</guid>
+      <guid>https://olivergibbons.com/projects/obstacle_avoidance/</guid>
       <description>The aim of this project was to develop a robot capable of delivering parcels within apartment buildings, in an attempt to solve one section of the last-mile delivery problem.
 Here we simulate a robot attempting to get from a starting position to a recipients door.
 Key steps: The robot is assumed to have access to the building&amp;rsquo;s floorplan. A probabilistic roadmap planner is then used to calculate an ideal path to the goal from it&amp;rsquo;s starting point.</description>
@@ -29,20 +29,20 @@ Key steps: The robot is assumed to have access to the building&amp;rsquo;s floor
     
     <item>
       <title>Digit Classification</title>
-      <link>/projects/digit_classification/</link>
+      <link>https://olivergibbons.com/projects/digit_classification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/digit_classification/</guid>
+      <guid>https://olivergibbons.com/projects/digit_classification/</guid>
       <description>Neural network trained using PyTorch and MNIST dataset. The model will then predict the value of the user drawn digit in a PyGame window.
 Key steps: Neural network trained using stochastic gradient descent and a cross-entropy loss. Dropout used to prevent overfitting. User can then draw their own digit in a PyGame window to be predicted. </description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>/aboutme/</link>
+      <link>https://olivergibbons.com/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/aboutme/</guid>
+      <guid>https://olivergibbons.com/aboutme/</guid>
       <description>Hi! I&amp;rsquo;m Oliver. Right now I&amp;rsquo;m modelling carbon credit demand at Trove Research! I recently graduated with a masters in Engineering Science from the University of Oxford, where I specialised in information engineering. In my final years I focussed on robotics, machine learning and control theory.
 I enjoy programming and being exposed to new technologies. For a more detailed overview of my background and experience, check out my LinkedIn! You can also see some of my code on GitHub.</description>
     </item>
