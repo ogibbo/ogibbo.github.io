@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ogibbo.github.io/projects/robotic_manipulation/</loc>
+    <loc>/projects/robotic_manipulation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/projects/obstacle_avoidance/</loc>
+    <loc>/projects/obstacle_avoidance/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/projects/digit_classification/</loc>
+    <loc>/projects/digit_classification/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/aboutme/</loc>
+    <loc>/aboutme/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/</loc>
+    <loc>/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/projects/</loc>
+    <loc>/projects/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
