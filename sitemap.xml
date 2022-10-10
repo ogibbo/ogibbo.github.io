@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ogibbo.github.io/post/proj1/</loc>
+    <loc>https://ogibbo.github.io/projects/robotic_manipulation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/post/proj2/</loc>
+    <loc>https://ogibbo.github.io/projects/obstacle_avoidance/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/post/proj3/</loc>
+    <loc>https://ogibbo.github.io/projects/digit_classification/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/about/</loc>
+    <loc>https://ogibbo.github.io/aboutme/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -26,7 +26,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ogibbo.github.io/post/</loc>
+    <loc>https://ogibbo.github.io/projects/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

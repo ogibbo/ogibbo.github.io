@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi! I&#39;m Oliver. on Oliver Gibbons</title>
-    <link>https://ogibbo.github.io/</link>
-    <description>Recent content in Hi! I&#39;m Oliver. on Oliver Gibbons</description>
+    <title>Projects on Oliver Gibbons</title>
+    <link>https://ogibbo.github.io/projects/</link>
+    <description>Recent content in Projects on Oliver Gibbons</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ogibbo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ogibbo.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robotic Manipulation Using Tactile Feedback: A Strategy for Peg in Hole Insertion Tasks</title>
       <link>https://ogibbo.github.io/projects/robotic_manipulation/</link>
@@ -35,16 +35,6 @@ Key steps: The robot is assumed to have access to the building&amp;rsquo;s floor
       <guid>https://ogibbo.github.io/projects/digit_classification/</guid>
       <description>Neural network trained using PyTorch and MNIST dataset. The model will then predict the value of the user drawn digit in a PyGame window.
 Key steps: Neural network trained using stochastic gradient descent and a cross-entropy loss. Dropout used to prevent overfitting. User can then draw their own digit in a PyGame window to be predicted. </description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://ogibbo.github.io/aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ogibbo.github.io/aboutme/</guid>
-      <description>Hi! I&amp;rsquo;m Oliver. Right now I&amp;rsquo;m modelling carbon credit demand at Trove Research! I recently graduated with a masters in Engineering Science from the University of Oxford, where I specialised in information engineering. In my final years I focussed on robotics, machine learning and control theory.
-I enjoy programming and being exposed to new technologies. For a more detailed overview of my background and experience, check out my LinkedIn! You can also see some of my code on GitHub.</description>
     </item>
     
   </channel>
