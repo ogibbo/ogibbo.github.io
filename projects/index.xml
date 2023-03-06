@@ -13,7 +13,7 @@
       
       <guid>https://olivergibbons.com/projects/concept_extrapolation/</guid>
       <description>Concept extrapolation is the process of taking a feature determined during a training situation and extrapolating it safely to work more generally.
-I&amp;rsquo;m part of a small team from the AI Safety Hub. We&amp;rsquo;re working in collaboration with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm to process text in addition to images.
+I&amp;rsquo;m part of a small team from the AI Safety Hub. We&amp;rsquo;re working in collaboration with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm.
 More details about the project will be posted upon completion in April!
 Skills: PyTorch, Git, NLP</description>
     </item>
