@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://olivergibbons.com/projects/concept_extrapolation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://olivergibbons.com/projects/robotic_manipulation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://olivergibbons.com/projects/obstacle_avoidance/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://olivergibbons.com/projects/digit_classification/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
