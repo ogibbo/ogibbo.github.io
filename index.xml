@@ -14,7 +14,7 @@
       <guid>https://olivergibbons.com/projects/concept_extrapolation/</guid>
       <description>Concept extrapolation is the process of taking a feature determined during a training situation and extrapolating it safely to work more generally.
 I&amp;rsquo;m part of a small team from the AI Safety Hub. We&amp;rsquo;re working in collaboration with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm.
-More details about the project will be posted upon completion in April!
+More details about the project will be posted upon completion in April.
 Skills: PyTorch, Git, NLP</description>
     </item>
     
@@ -47,7 +47,7 @@ Key steps: The robot is assumed to have access to the building&amp;rsquo;s floor
       
       <guid>https://olivergibbons.com/aboutme/</guid>
       <description>Hi! I&amp;rsquo;m Oliver. Right now I&amp;rsquo;m modelling carbon credit demand at Trove Research! I recently graduated with a masters in Engineering Science from the University of Oxford, where I specialised in information engineering. In my final years I focussed on robotics, machine learning and control theory.
-I enjoy programming and being exposed to new technologies. For a more detailed overview of my background and experience, check out my LinkedIn! You can also see some of my code on GitHub.</description>
+I enjoy programming and being exposed to new technologies. For a more detailed overview of my background and experience, check out my LinkedIn. You can also see some of my code on GitHub.</description>
     </item>
     
   </channel>
