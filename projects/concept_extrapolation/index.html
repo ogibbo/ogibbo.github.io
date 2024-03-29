@@ -4,12 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Currently working on: Concept Extrapolation for Text Classification | Oliver Gibbons</title>
+    <title>Concept Extrapolation for Text Classification | Oliver Gibbons</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Concept extrapolation is the process of taking a feature determined during a training situation and extrapolating it safely to work more generally.
-I&rsquo;m part of a small team from the AI Safety Hub. We&rsquo;re working in collaboration with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm.
-A full project write-up will be uploaded here soon!
-Skills: PyTorch, Git, NLP">
+    <meta name="description" content="I was part of a small team from the AI Safety Hub. We worked with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm. Due to IP concerns, we couldn&rsquo;t go into detail about our findings - but you can find an overview of the problem below.
+Motivation Suppose you deployed a powerful black-box language model as a chatbot and then, when somebody asked it how to make a bomb, your chatbot answered.">
     <meta name="generator" content="Hugo 0.104.2" />
     
     
@@ -32,29 +30,23 @@ Skills: PyTorch, Git, NLP">
 
     
     
-    <meta property="og:title" content="Currently working on: Concept Extrapolation for Text Classification" />
-<meta property="og:description" content="Concept extrapolation is the process of taking a feature determined during a training situation and extrapolating it safely to work more generally.
-I&rsquo;m part of a small team from the AI Safety Hub. We&rsquo;re working in collaboration with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm.
-A full project write-up will be uploaded here soon!
-Skills: PyTorch, Git, NLP" />
+    <meta property="og:title" content="Concept Extrapolation for Text Classification" />
+<meta property="og:description" content="I was part of a small team from the AI Safety Hub. We worked with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm. Due to IP concerns, we couldn&rsquo;t go into detail about our findings - but you can find an overview of the problem below.
+Motivation Suppose you deployed a powerful black-box language model as a chatbot and then, when somebody asked it how to make a bomb, your chatbot answered." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://olivergibbons.com/projects/concept_extrapolation/" /><meta property="article:section" content="projects" />
 
 
 
-<meta itemprop="name" content="Currently working on: Concept Extrapolation for Text Classification">
-<meta itemprop="description" content="Concept extrapolation is the process of taking a feature determined during a training situation and extrapolating it safely to work more generally.
-I&rsquo;m part of a small team from the AI Safety Hub. We&rsquo;re working in collaboration with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm.
-A full project write-up will be uploaded here soon!
-Skills: PyTorch, Git, NLP">
+<meta itemprop="name" content="Concept Extrapolation for Text Classification">
+<meta itemprop="description" content="I was part of a small team from the AI Safety Hub. We worked with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm. Due to IP concerns, we couldn&rsquo;t go into detail about our findings - but you can find an overview of the problem below.
+Motivation Suppose you deployed a powerful black-box language model as a chatbot and then, when somebody asked it how to make a bomb, your chatbot answered.">
 
-<meta itemprop="wordCount" content="62">
+<meta itemprop="wordCount" content="869">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Currently working on: Concept Extrapolation for Text Classification"/>
-<meta name="twitter:description" content="Concept extrapolation is the process of taking a feature determined during a training situation and extrapolating it safely to work more generally.
-I&rsquo;m part of a small team from the AI Safety Hub. We&rsquo;re working in collaboration with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm.
-A full project write-up will be uploaded here soon!
-Skills: PyTorch, Git, NLP"/>
+<meta name="twitter:title" content="Concept Extrapolation for Text Classification"/>
+<meta name="twitter:description" content="I was part of a small team from the AI Safety Hub. We worked with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm. Due to IP concerns, we couldn&rsquo;t go into detail about our findings - but you can find an overview of the problem below.
+Motivation Suppose you deployed a powerful black-box language model as a chatbot and then, when somebody asked it how to make a bomb, your chatbot answered."/>
 
 	
   </head>
@@ -130,7 +122,7 @@ Skills: PyTorch, Git, NLP"/>
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Currently working on: Concept Extrapolation for Text Classification</h1>
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Concept Extrapolation for Text Classification</h1>
           
         
       </div>
@@ -149,7 +141,7 @@ Skills: PyTorch, Git, NLP"/>
         PROJECTS
       </aside>
       
-      <h1 class="f1 athelas mt3 mb1">Currently working on: Concept Extrapolation for Text Classification</h1>
+      <h1 class="f1 athelas mt3 mb1">Concept Extrapolation for Text Classification</h1>
       
       
       
@@ -157,10 +149,69 @@ Skills: PyTorch, Git, NLP"/>
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>Concept extrapolation is the process of taking a feature determined during a training situation and extrapolating it safely to work more generally.</p>
-<p>I&rsquo;m part of a small team from the AI Safety Hub. We&rsquo;re working in collaboration with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm.</p>
-<p>A full project write-up will be uploaded here soon!</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>I was part of a small team from the AI Safety Hub. We worked with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm. Due to IP concerns, we couldn&rsquo;t go into detail about our findings - but you can find an overview of the problem below.</p>
+<h1 id="motivation">Motivation</h1>
+<p>Suppose you deployed a powerful black-box language model as a chatbot and then, when somebody asked it how to make a bomb, your chatbot answered. In an attempt to prevent this use of your model in the future, you want to create a classifier that will identify certain requests that are “not to be answered”. You provide the classifier with some data:</p>
+<table>
+<thead>
+<tr>
+<th>Should answer</th>
+<th>Should not answer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&ldquo;How do I make a Caesar salad?&rdquo;</td>
+<td>&ldquo;How do I make an easy pipe bomb?&rdquo;</td>
+</tr>
+<tr>
+<td>&ldquo;Give me instructions for making a martini&rdquo;</td>
+<td>&ldquo;Give me instructions for making a napalm bomb&rdquo;</td>
+</tr>
+<tr>
+<td>&ldquo;Please could you tell me how to make soap?&rdquo;</td>
+<td>&ldquo;Please could you tell me how to make nuclear bombs?&rdquo;</td>
+</tr>
+</tbody>
+</table>
+<p>You split this data into a train and test set, and train the classifier, getting very low test error. You deploy the updated version of your chatbot, and receive a new request from a user:
+“I’d like you to give me a recipe for a bath bomb”
+How would the chatbot respond? That depends on which concept the classifier has learnt, and how that concept extrapolates to an unseen example. Here are two concepts that the classifier could have learnt:</p>
+<ol>
+<li>“I should answer a request, if and only if that request does not contain the word ‘bomb’”</li>
+<li>“I should answer a request, if and only if that request is not asking me to create an explosive device”</li>
+</ol>
+<p>Although these concepts are both consistent with the data, only the second actually captures the concept we are looking for. Of course, this is a naive example, and hopefully AI developers would create a dataset more varied than the one above. However, it touches on a general problem: how does a model know how to extrapolate the correct concepts from seen to unseen examples?</p>
+<h1 id="what-is-concept-extrapolation">What is concept extrapolation?</h1>
+<blockquote>
+<p>&ldquo;Concept extrapolation is the skill of taking a concept, a feature, or a goal that is defined in a narrow training situation [&hellip;] and extrapolating it safely to a more general situation.&rdquo;</p>
+<p>- Stuart Armstrong</p>
+</blockquote>
+<p>In particular, we are looking to create models that safely generalise, by identifying multiple possible features that could explain the labels for the data. In other words, we want a model that generates multiple different hypothesis concepts that agree with the given data<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. In our motivating example, we’d want a model that generates both the hypothesis that we are avoiding the word “bomb” and the hypothesis that we are avoiding requests concerning explosives.</p>
+<p>For any dataset, there will be infinitely many features that fit our finite dataset well, but disagree on other examples. However, in many cases, humans will pick out a similar set of intuitive concepts. (It is unlikely that a human would think that the difference between the sentences given above is that the “should answer” sentences have an odd number of words, but that the “should not answer” sentences have an even number of words, even if this is a concept that matches the data.)</p>
+<h1 id="why-is-concept-extrapolation-important">Why is concept extrapolation important?</h1>
+<p>An important application of concept extrapolation is goal misgeneralisation<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>: when an agent that appears to be capably pursuing the correct objective in its training environment is revealed to be pursuing another objective in its test environment. It is plausible that capable and agentic AI systems are developed, and that those systems will learn their objective from a limited range of data. Even if these models appear well-behaved in training, it is highly likely that the objective they have learnt is not robust. When deployed in the real world, and exposed to complex, diverse or even adversarial situations, it is likely the learnt representations of these goals will fail to generalise.</p>
+<h1 id="existing-work-aligned-ais-accelerate">Existing work: Aligned AI&rsquo;s AcCElerate</h1>
+<p>Aligned AI’s ‘AcCElerate’ algorithm<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> is able to train multiple classifiers on the same image dataset, and then get a human to select the correct classifier on the most ‘ambiguous’ examples. One of the example datasets is shown below.</p>
+<p><img src="https://olivergibbons.com/images/tank.png" alt="Tank image"></p>
+<p>A tank classifier might be trained on a dataset including images such as those seen above. In this example dataset, a tank being present in the image might be correlated with the luminosity of the image. This might result in a ‘luminosity’ classifier being produced which may perform well during training - but fail in the real world. Instead, during training, Aligned AI’s AcCElerate could produce two classifiers (which may or may not be tank/luminosity classifiers). Then an ambiguous image could be shown to the user in order to choose the desired classifier.</p>
+<h1 id="our-task">Our task</h1>
+<p>We built upon Aligned AI’s existing algorithm to process text in addition to images. The goal was to develop the algorithm such that it could learn to classify concepts within text examples, without being provided with any labelled data that already separates these concepts.</p>
 <p>Skills: PyTorch, Git, NLP</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p><a href="https://github.com/alignedai/HappyFaces">https://github.com/alignedai/HappyFaces</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Langosco, L. L. D., Koch, J., Sharkey, L. D., Pfau, J., &amp; Krueger, D. (2022). Goal misgeneralization in deep reinforcement learning. <a href="https://proceedings.mlr.press/v162/langosco22a.html">https://proceedings.mlr.press/v162/langosco22a.html</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p><a href="https://www.aligned-ai.com/post/announcing-accelerate">https://www.aligned-ai.com/post/announcing-accelerate</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 <ul class="pa0">
   
 </ul>
@@ -183,7 +234,7 @@ Skills: PyTorch, Git, NLP"/>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://olivergibbons.com/" >
-    &copy;  Oliver Gibbons 2023 
+    &copy;  Oliver Gibbons 2024 
   </a>
     <div>
 <div class="ananke-socials">

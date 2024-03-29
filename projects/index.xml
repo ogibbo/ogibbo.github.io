@@ -7,15 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://olivergibbons.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Currently working on: Concept Extrapolation for Text Classification</title>
+      <title>Concept Extrapolation for Text Classification</title>
       <link>https://olivergibbons.com/projects/concept_extrapolation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://olivergibbons.com/projects/concept_extrapolation/</guid>
-      <description>Concept extrapolation is the process of taking a feature determined during a training situation and extrapolating it safely to work more generally.
-I&amp;rsquo;m part of a small team from the AI Safety Hub. We&amp;rsquo;re working in collaboration with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm.
-A full project write-up will be uploaded here soon!
-Skills: PyTorch, Git, NLP</description>
+      <description>I was part of a small team from the AI Safety Hub. We worked with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm. Due to IP concerns, we couldn&amp;rsquo;t go into detail about our findings - but you can find an overview of the problem below.
+Motivation Suppose you deployed a powerful black-box language model as a chatbot and then, when somebody asked it how to make a bomb, your chatbot answered.</description>
     </item>
     
     <item>

@@ -7,15 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://olivergibbons.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Currently working on: Concept Extrapolation for Text Classification</title>
+      <title>Concept Extrapolation for Text Classification</title>
       <link>https://olivergibbons.com/projects/concept_extrapolation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://olivergibbons.com/projects/concept_extrapolation/</guid>
-      <description>Concept extrapolation is the process of taking a feature determined during a training situation and extrapolating it safely to work more generally.
-I&amp;rsquo;m part of a small team from the AI Safety Hub. We&amp;rsquo;re working in collaboration with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm.
-A full project write-up will be uploaded here soon!
-Skills: PyTorch, Git, NLP</description>
+      <description>I was part of a small team from the AI Safety Hub. We worked with Oxford-based startup, Aligned AI, to extend their proprietary concept extrapolation algorithm. Due to IP concerns, we couldn&amp;rsquo;t go into detail about our findings - but you can find an overview of the problem below.
+Motivation Suppose you deployed a powerful black-box language model as a chatbot and then, when somebody asked it how to make a bomb, your chatbot answered.</description>
     </item>
     
     <item>
@@ -46,8 +44,7 @@ Key steps: The robot is assumed to have access to the building&amp;rsquo;s floor
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://olivergibbons.com/aboutme/</guid>
-      <description>Hi! I&amp;rsquo;m Oliver. Right now I&amp;rsquo;m modelling carbon credit demand at Trove Research! I recently graduated with a masters in Engineering Science from the University of Oxford, where I specialised in information engineering. In my final years I focussed on robotics, machine learning and control theory.
-I enjoy programming and being exposed to new technologies. For a more detailed overview of my background and experience, check out my LinkedIn. You can also see some of my code on GitHub.</description>
+      <description>Hi! I&amp;rsquo;m Oliver. I&amp;rsquo;m an Analyst at MSCI Carbon Markets (previously Trove Research). I recently graduated with a masters in Engineering Science from the University of Oxford, where I specialised in information engineering. In my final years I focussed on robotics, machine learning and control theory.</description>
     </item>
     
   </channel>
